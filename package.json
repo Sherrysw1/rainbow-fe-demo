@@ -11,6 +11,7 @@
     "content-wind": "latest",
     "nuxt": "latest"
   },
+  "packageManager": "pnpm@8.16.0",
   "dependencies": {
     "@nuxthq/studio": "^2.0.3"
   }
